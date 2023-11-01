@@ -43,11 +43,11 @@ Convert units in various categories, including:
 
 2. Clone the Repository:
 ```
-$ git clone https://github.com/Dannyung50/unitConverter.git
+$ git clone https://github.com/Dannyung50/UnitConverter.git
 
-$ cd unitConverter
+$ cd UnitConverter
 ```
-4. Run the app on iphone simulator of your choice.
+3. Run the app on  simulator of your choice.
 
 ### Contributing
 
